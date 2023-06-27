@@ -6,6 +6,6 @@ Y. Fan,L. J. Shepherd, E. Slavich, D. Waters, M. Stone, R. Abel, E. L. Johnston
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209749
 
-
+Updated results in the file Reanalysis_V2.pdf
 
 
