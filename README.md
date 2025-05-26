@@ -24,7 +24,9 @@ Y. Fan,L. J. Shepherd, E. Slavich, D. Waters, M. Stone, R. Abel, E. L. Johnston
 
    https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1296771/full
 
- 5) Relationships between numerical score and free text comments in student evaluations of teaching: a sentiment topic analysis reveals the influence of gender and culture; PLOS One
+   To request data, please email to yanan.fan@csiro.au
+
+ 6) Relationships between numerical score and free text comments in student evaluations of teaching: a sentiment topic analysis reveals the influence of gender and culture; PLOS One
     Fiona Kim, Emma L. Johnston, Yanan Fan
 
     
