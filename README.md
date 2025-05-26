@@ -6,15 +6,15 @@ Contains data and codes for the following analyses of SET
 1) Gender and cultural bias in student evaluations: Why representation matters; PLOS One
 Y. Fan,L. J. Shepherd, E. Slavich, D. Waters, M. Stone, R. Abel, E. L. Johnston
 
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209749
+   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209749
 
-Updated results in the file Reanalysis_V2.pdf and the Data in data_git.zip
+   Updated results in the file Reanalysis_V2.pdf and the Data in data_git.zip
 
 
 2) Bias intervention messaging in student evaluations of teaching: The role of gendered perceptions of bias, Heliyon
    Fiona Kim, Lisa A. Williams, Emma L. Johnston, Yanan Fan
 
-https://www.cell.com/heliyon/fulltext/S2405-8440(24)13171-4
+   https://www.cell.com/heliyon/fulltext/S2405-8440(24)13171-4
 
 
 3) A topic model analysis of students' gendered expectations using surveyed critiques of lecturers; Frontiers in Education
